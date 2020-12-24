@@ -21,8 +21,3 @@ Ejecute `ng test` para ejecutar las pruebas unitarias a través de [Karma] (http
 ## Ejecución de pruebas de un extremo a otro
 
 Ejecute `ng e2e` para ejecutar las pruebas de un extremo a otro a través de [Transportador] (http://www.protractortest.org/).
-
-## Ayuda adicional
-
-Para obtener más ayuda sobre Angular CLI, use `ng help` o consulte el [LÉAME de Angular CLI] (https://github.com/angular/angular-cli/blob/master/README.md).
-Abrir en Google Traductor
